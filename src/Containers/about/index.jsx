@@ -31,7 +31,7 @@ const personalDetails = [
 ];
 
 const jobSummary =
-            "Hello! I'm [Rahul Kumar], a passionate front-end developer with a keen eye for aesthetics and UI design.I specialize in creating visually stunning and highly functional websites that deliver exceptional user experiences.My journey into web development began with a fascination for how things work behind the scenes on the internet. This curiosity led me to pursue a  B.Tech in Information Technology from IIEST Shibpur, where I developed a strong foundation in web technologies and user experience design."
+            "Hello! I'm Rahul Kumar, a versatile software developer with a strong background in front-end development, data science, and machine learning. I specialize in crafting visually appealing and highly functional websites that provide exceptional user experiences. My journey into software development began with a deep curiosity about the inner workings of the digital world, which led me to pursue a B.Tech in Information Technology from IIEST Shibpur. This educational foundation, combined with practical experience, has equipped me with a robust understanding of web technologies, data analytics, and user experience design."
 const About = () => {
   return (
     <section id="about" className="about">
@@ -52,7 +52,7 @@ const About = () => {
               transform: "translatex(0px)",
             }}
           >
-            <h3>Front End Developer</h3>
+            <h3>Software Developer</h3>
             <p>{jobSummary}</p>
           </Animate>
 

@@ -3,23 +3,25 @@ export const data = {
     {
       title: "Advanced Data Analytics(Power BI)",
       subTitle: "AICTE,Next Gen Employability Program",
-      date: "2023-2024",
+      date: "Feb 2024 to April 2024",
       description:
         "I gained hands-on experience in data analysis and visualization, transforming raw accident data into actionable insights. This involved proficiency in Power BI tools and techniques, as well as data integration from diverse sources for comprehensive analysis.",
     },
-    //   {
-    //     title: "Senior Consultant",
-    //     subTitle: "London, UK",
-    //     description:
-    //       "Web development, Databases, Backend developement",
-    //   },
-    //   {
-    //     title: "Project Manager",
-    //     subTitle: "Bangalore, INDIA",
-    //     description:
-    //       "Creative Direction Project Management, Team Leading",
-    //   },
-    // 
+     {
+        title: "Data Science",
+        subTitle: "Celebal Technologies",
+        date: "May 2024 to Jul 2024 ",
+        description:
+          "Completed a data science internship at Celebal Technologies, gaining hands-on experience in data analysis, machine learning,and advanced data analytics tools",
+      },
+      {
+         title: "Machine Learning, Computer Vision - NIT, Patna",
+         subTitle: "Mentored by Dr. Rajib Ghosh, assistant professor, Dept. of Computer Science Engineering",
+         date: "Jun 2024 to Jul 2024 ",
+        description:
+          "Completed a summer internship project on object detection in underwater images, applying Faster R-CNN and YOLO modelsto achieve high accuracy in challenging visual conditions Utilized Faster R-CNN and YOLO models to enhance objectdetection capabilities in underwater imagery, focusing on improving model robustness and precision.",
+      },
+     
   ],
   education: [
     {
